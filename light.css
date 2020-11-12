@@ -1,0 +1,12 @@
+:root {
+    --color: #171717;
+    --background-size: cover;
+    --height: 100%;
+    --background:
+    url(/img/light-grid.svg),
+        linear-gradient(246.09deg, #2CA1D3 0%, rgba(53, 203, 213, 0.578125) 20.79%, rgba(246, 241, 213, 0) 54.38%) fixed;
+}
+
+.aqua {
+    color: #3AA09B;
+}

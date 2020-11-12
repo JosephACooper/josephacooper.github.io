@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+html { font-family: 'IBM Plex Sans', sans-serif; }
+
+body {
+    color: var(--color);
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-size: var(--background-size);
+    height: var(--height);
+    background: var(--background);
+}
+
+.plex {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.aqua {
+    color: #00E9F8;
+}
+
